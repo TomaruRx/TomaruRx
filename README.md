@@ -1,6 +1,5 @@
 # Hello, I'm Tomaru :)
-
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">]([https://rahulmahesh.me/](https://tomarurx.github.io/Portfolio/))
+<a href="https://tomarurx.github.io/Portfolio/"><img src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/></a>
 
 ## Tech Stack:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/> <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white"/>
