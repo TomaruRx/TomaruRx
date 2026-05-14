@@ -1,4 +1,8 @@
 # Hello, I'm Tomaru :)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhzaWxxdGwyYW5pMmN6NXd2MHB5Zm43bzQyejJhMngzd2FoY3lvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DHAa1UQA95eWTZMOxQ/giphy.gif" width="75">
+<!--
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlydW9qMnAyamZjYWM2N2l1YnQ3cmh2MHIxaTZrenptZXliNDhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QxT6pLq6ekKiCkLkf0/giphy.gif" width="100">
+-->
 <a href="https://tomarurx.github.io/Portfolio/"><img src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/></a> 
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
@@ -17,5 +21,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/TomaruRx?style=social)
 
 [![Visits Badge](https://badges.pufler.dev/visits/TomaruRx/TomaruRx?style=for-the-badge)](https://github.com/TomaruRx)
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x0bnJ2dm5yZGljZ3lxMm1yd28wdnhscGs4cDhha3QzMXpyY3NyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ou60s0z0v7JzSWGn8C/giphy.gif" width="100">
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
