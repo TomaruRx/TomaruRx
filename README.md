@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=TomaruRx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TomaruRx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=TomaruRx&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TomaruRx&theme=ambient-gradient&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ## Badges 👇️
 ![GitHub followers](https://img.shields.io/github/followers/TomaruRx?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/TomaruRx?style=social)
