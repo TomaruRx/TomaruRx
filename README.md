@@ -11,11 +11,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/sass-firebrick.svg?style=for-the-badge&logo=sass&logoColor=white) ![Python](https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ## GitHub Stats 📊
+
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=TomaruRx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TomaruRx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TomaruRx&theme=ambient-gradient&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ## Badges 👇️
 ![GitHub followers](https://img.shields.io/github/followers/TomaruRx?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/TomaruRx?style=social)
@@ -24,6 +26,6 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x0bnJ2dm5yZGljZ3lxMm1yd28wdnhscGs4cDhha3QzMXpyY3NyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ou60s0z0v7JzSWGn8C/giphy.gif" width="100">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vunlt7b44tet4sbkfnoxmbn64y&cover_image=true&theme=default&show_offline=false&background_color=454545&interchange=false&profanity=false&hide_remaster=false&bar_color=b94b7b&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vunlt7b44tet4sbkfnoxmbn64y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=454545&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=b94b7b&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
